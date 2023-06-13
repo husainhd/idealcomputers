@@ -1,0 +1,212 @@
+<!--<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ideal Computer</title>
+    
+</head>
+<link rel = "stylesheet" href="./style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dosis&family=Rubik:wght@300;600&family=Ubuntu:wght@500&display=swap" rel="stylesheet">
+<body>
+    <div id="title"><h2>Sales & Service Centre</h2></div>
+    <div class="logo"><img id="logo" src="./logo.png"></div>
+    <div id = "photod"><img  id="photo"src="./ideal.png" ></div>
+    <div id="main"> 
+        
+        <div id="idl"><h1 id = "ideal">IDEAL</h1></div>
+        <div id = "ideaol"><h1 id = "computers">COMPUTERS</h1></div>
+    </div>
+  
+   
+    
+
+</body>
+</html>-->
+
+
+
+
+css
+/*
+
+html{
+    background-image: linear-gradient( to left , #7393B3 , black );
+  }
+
+#ideal {   
+    font-family: 'Rubik', sans-serif;
+    font-weight:bold;
+    font-size:150px
+    
+}
+
+#computers {
+    font-family: 'Rubik', sans-serif;
+    font-size:120px ;
+    font-weight:lighter;
+    color: #D3D3D3;
+    
+    
+}
+#main{
+    margin-top:200px
+}
+#idl{
+    
+  
+    position:absolute;
+    margin-left: 200px;
+    color: #D3D3D3;
+}
+#photod{
+    position: absolute;
+    top: 50px;
+    left: 800px;
+    bottom: 1px;
+        
+}
+#photo{
+    width: 600px;
+   display: block;
+   margin-top: auto;
+    
+}
+#ideaol{
+
+
+position: absolute;
+margin-top: 200px;
+margin-left: 50px;}
+
+#logo{
+    
+    width:80px;
+    
+    
+}
+.logo{
+    position: absolute;
+    top: 50px;
+    margin-left: 200px;
+    
+
+}
+#title{
+    color: #D3D3D3;
+    font-family: 'Rubik', sans-serif;
+    font-size: 10px;
+    position: absolute;
+    top:70px;
+    margin-left: 280px;
+
+}
+*/
+
+
+
+
+    <div class="carousel-item active" >
+      <img src="/ideal comp photos/Screenshot 2023-06-10 at 2.01.55 PM.png" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="/ideal comp photos/IMG20230203114230.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="/ideal comp photos/IMG20230203112213.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item ">
+      <img src="/ideal comp photos/IMG20230203112233.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="/ideal comp photos/IMG20230203122731.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="/ideal comp photos/IMG20230203192916.jpg" class="d-block w-100" alt="...">
+    </div>
+
+
+
+
+<div class="container px-4 py-5">
+  <div class="text-center">
+    <img src="/logos/Lenovo_Corporate_Logo.png" class="rounded img-fluid"  alt="..." width="500px">
+  </div>
+  <br>
+  <div class="text-center">
+    <img src="/logos/asus.jpeg" class="rounded img-fluid"  alt="..." width="500px">
+  </div>
+  <br>
+  <div class="text-center">
+    <img src="/logos/Dell_Logo.png" class="rounded img-fluid"  alt="..." width="300px">
+  </div>
+  <br>
+  <div class="text-center">
+    <img src="/logos/2048px-HP_logo_2012.svg.png" class="rounded img-fluid"  alt="..." width="150px" ">
+  </div>
+  <br>
+
+  <div class="text-center">
+    <img src="/logos/MSI-Logo.png" class="rounded img-fluid"  alt="..." width="500px">
+  </div>
+  <div class="text-center">
+    <img src="/logos/Apple_logo_PNG1.png" class="rounded img-fluid"  alt="..." width="00px">
+  </div>
+ 
+</div>
+
+
+
+<div  class="container px-4 py-5">
+  <h3 class="pb-2 border-bottom" style="font-weight: bolder;font-size: 50px;" >Laptop Brands In Our Store</h3>
+</div>
+
+
+<div class="container text-center">
+  <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2">
+    <div class="col" >    <img src="/logos/Lenovo_Corporate_Logo.png" class="rounded img-fluid"  alt="..." width="200px">
+    </div>
+    <div class="col">    <img src="/logos/asus.jpeg" class="rounded img-fluid"  alt="..." width="200px">
+    </div>
+  </div>
+</div>
+<div class="container text-center">
+  <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2">
+    <div class="col">    <img src="/logos/Dell_Logo.png" class="rounded img-fluid"  alt="..." width="200px">
+    </div>
+    <div class="col">    <img src="/logos/2048px-HP_logo_2012.svg.png" class="rounded img-fluid"  alt="..." width="50px">
+    </div>
+  </div>
+</div>
+<div class="container text-center">
+  <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2">
+    <div class="col">    <img src="/logos/Apple_logo_PNG1.png" class="rounded img-fluid"  alt="..." width="50px">
+    </div>
+    <div class="col">    <img src="/logos/MSI-Logo.png" class="rounded img-fluid"  alt="..." width="200px">
+    </div>
+  </div>
+</div>
+
+
+.css-selector {
+    background: linear-gradient(270deg, #778899, #efdecd, #6c6d6e);
+    background-size: 600% 600%;
+
+    -webkit-animation: AnimationName 24s ease infinite;
+    animation: AnimationName 24s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 38%}
+    50%{background-position:100% 63%}
+    100%{background-position:0% 38%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 38%}
+    50%{background-position:100% 63%}
+    100%{background-position:0% 38%}
+}

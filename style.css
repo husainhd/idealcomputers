@@ -1,0 +1,44 @@
+.gradient {
+    background: linear-gradient(270deg, #778899, #efdecd, #6c6d6e);
+    background-size: 600% 600%;
+
+    -webkit-animation: AnimationName 24s ease infinite;
+    animation: AnimationName 24s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 38%}
+    50%{background-position:100% 63%}
+    100%{background-position:0% 38%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 38%}
+    50%{background-position:100% 63%}
+    100%{background-position:0% 38%}
+}
+
+.nav{
+    background-color: ;
+    border-radius: 8px;
+}
+
+#lapimg{
+   background-image: url(lap.png);
+  position: relative;
+}
+
+#logo{
+    position: absolute;
+    top: 270px;
+    left: 120px;
+}
+#lap
+{
+    width: auto;
+}
+#mr{
+    margin-top: 0px;
+}
+#owner{
+    border-radius: 90%;
+}
